@@ -10,8 +10,6 @@ $PackageIdentifiers = @(
   "OlegDanilov.RapidEnvironmentEditor"
   "Parsec.Parsec"
   "SlackTechnologies.Slack"
-  "Spotify.Spotify"
-  "Yubico.Authenticator"
   "Google.GoogleDrive"
   "OpenVPNTechnologies.OpenVPNConnect"
   "UderzoSoftware.SpaceSniffer"

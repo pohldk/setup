@@ -8,10 +8,9 @@ $PackageIdentifiers = @(
   "Microsoft.DotNet.SDK.Preview"
   "Microsoft.VisualStudioCode"
   "Mirantis.Lens"
-  "Mozilla.SOPS"
+  "SecretsOPerationS.SOPS"
   "WinSCP.WinSCP"
   "Amazon.AWSCli"
-  "Google.CloudSDK"
 )
 
 $wingetList = winget list --accept-source-agreements

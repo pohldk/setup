@@ -37,9 +37,6 @@ ExecuteScript "RemoveDefaultApps.ps1"
 ExecuteScript "CommonApps.ps1"
 ExecuteScript "DevApps.ps1"
 ExecuteScript "WorkApps.ps1"
-ExecuteScript "WSL.ps1"
-ExecuteScript "Fonts.ps1"
-ExecuteScript "Projects.ps1"
 
 Enable-UAC
 Enable-MicrosoftUpdate
